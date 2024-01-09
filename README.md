@@ -6,7 +6,7 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 - 🔭 I’m currently working on several exciting projects.
 - 🌱 I’m currently learning AWS and Spring Boot.
 - 👯 I’m looking to collaborate on any projects involving the technologies I'm learning.
-- 📫 How to reach me: [LinkedIn]([Your LinkedIn URL](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243)) (to be updated)
+- 📫 How to reach me: [LinkedIn](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243) (to be updated)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always intrigued by the ever-evolving landscape of technology!
 
@@ -22,7 +22,7 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Mohamed-lehbib]&layout=compact&theme=tokyonight)
 
 ## 🌐 Socials
-- [LinkedIn]([Your LinkedIn URL](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243)) (to be updated)
+- [LinkedIn](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243) (to be updated)
 
 <!-- 🖼️ My Favorite Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[Your GitHub Username]&repo=[Repository Name]&theme=tokyonight)](https://github.com/[Your GitHub Username]/[Repository Name])
