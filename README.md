@@ -7,7 +7,6 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 - 🌱 I’m currently learning AWS and Spring Boot.
 - 👯 I’m looking to collaborate on any projects involving the technologies I'm learning.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243) 
-<!-- - 😄 Pronouns: He/Him-->
 - ⚡ Fun fact: I'm always intrigued by the ever-evolving landscape of technology!
 
 ## 🛠 Skills
