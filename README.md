@@ -10,8 +10,8 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 - ⚡ Fun fact: I'm always intrigued by the ever-evolving landscape of technology!
 
 ## 🛠 Skills
-- Languages: Python, Java, JavaScript, Dart
-- Frameworks: Django Rest Framework, Flask, FastAPI, Hibernate, Spring Boot, Angular, Flutter
+- Languages: Python, Java, JavaScript, TypeScript, Dart
+- Frameworks: Django Rest Framework, Flask, FastAPI, Hibernate, Spring Boot, React, NextJS, Angular, Flutter
 - Tools: GitHub Actions, Docker
 
 ## 📈 Stats
