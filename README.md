@@ -25,7 +25,10 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 
 ## 🖼️ My Favorite Projects
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[Your GitHub Username]&repo=[Repository Name]&theme=tokyonight)](https://github.com/[Your GitHub Username]/[Repository Name])-->
-![Practice Test Netflix langing page and Youtube home page clone](https://react-tailwind-blush-omega.vercel.app)
+<iframe
+  src="https://react-tailwind-blush-omega.vercel.app"
+  style="width:100%; height:300px;"
+></iframe>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[Your GitHub Username]&repo=[Another Repository Name]&theme=tokyonight)](https://github.com/[Your GitHub Username]/[Another Repository Name])
 -->
