@@ -9,7 +9,7 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243) 
 - ⚡ Fun fact: I'm always intrigued by the ever-evolving landscape of technology!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=I'm+a+Full+Stack+Developer+with+a+passion+for+DevOps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=570&lines=I'm+a+Full+Stack+Developer+with+a+passion+for+DevOps.)](https://git.io/typing-svg)
 
 
 ## 🛠 Skills
