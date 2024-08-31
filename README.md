@@ -11,8 +11,8 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 
 ## 🛠 Skills
 - Languages: Python, Java, JavaScript, TypeScript, Dart
-- Frameworks: Django Rest Framework, Flask, FastAPI, Hibernate, Spring Boot, React, NextJS, Angular, Flutter
-- Tools: GitHub Actions, Docker
+- Frameworks: Django Rest Framework, Flask, FastAPI, Hibernate, Spring Boot, React, NextJS, ExpressJS, Supabase, Angular, Flutter
+- Tools: GitHub Actions, Jenkins, Portainer, Docker, NGINX Proxy Manager, Kuma, SonarQube
 
 ## 📈 Stats
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-lehbib&show_icons=true&theme=tokyonight)
