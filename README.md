@@ -1,5 +1,4 @@
 # Hi there, I'm Mohamed Lehbib! 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=640&lines=I'm+a+Full+Stack+Developer+with+a+passion+for+DevOps.)](https://git.io/typing-svg)
 
 
