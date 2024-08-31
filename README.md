@@ -1,5 +1,8 @@
 # Hi there, I'm Mohamed Lehbib! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=640&lines=I'm+a+Full+Stack+Developer+with+a+passion+for+DevOps.)](https://git.io/typing-svg)
+
+
 ## 🚀 About Me
 I'm a Software Engineer with a deep passion for all things technology. I love exploring new tech and applying it in innovative ways.
 
@@ -8,9 +11,6 @@ I'm a Software Engineer with a deep passion for all things technology. I love ex
 - 👯 I’m looking to collaborate on any projects involving the technologies I'm learning.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/mohamed-lehbib-abeidna-722970243) 
 - ⚡ Fun fact: I'm always intrigued by the ever-evolving landscape of technology!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=640&lines=I'm+a+Full+Stack+Developer+with+a+passion+for+DevOps.)](https://git.io/typing-svg)
-
 
 ## 🛠 Skills
 ### **Languages:**
